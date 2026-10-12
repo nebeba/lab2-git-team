@@ -9,3 +9,6 @@ Nazwa zespołu: ???
 ???
 
 ## Ulubione technologie
+
+windows 7
+
