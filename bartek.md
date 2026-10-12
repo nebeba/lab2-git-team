@@ -6,3 +6,9 @@ musiałem dopłacić 12 groszy do kaucji
 
 dodatkowe jedno zdanie
 
+
+
+\## hobby 
+
+miedzi
+
