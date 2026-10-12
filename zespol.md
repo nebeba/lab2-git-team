@@ -10,3 +10,6 @@ Artur Gliński
 ???
 
 ## Ulubione technologie
+
+windows 7
+
