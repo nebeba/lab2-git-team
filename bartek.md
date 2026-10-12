@@ -8,7 +8,7 @@ dodatkowe jedno zdanie
 
 
 
-\## hobby 
+\## hobby
 
-miedzi
+miedź
 
