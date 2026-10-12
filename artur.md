@@ -4,4 +4,4 @@ Nie lubie 50% Bartków
 Lubie żart o psie spawaczu
 
 #Hobby
-Jedzenei wysokalorycznych dań
+Jedzenie wysokalorycznych dań
