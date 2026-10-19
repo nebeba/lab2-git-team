@@ -1,6 +1,7 @@
 # Zespół
 
-Nazwa zespołu: Ala ma kota
+Nazwa zespołu: Duchy Boruchy
+
 
 ## Skład
 Artur Gliński
@@ -10,6 +11,3 @@ Artur Gliński
 ???
 
 ## Ulubione technologie
-
-windows 7
-
