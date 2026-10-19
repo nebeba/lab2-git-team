@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: ???
+Nazwa zespołu: Ala ma kota
 
 ## Skład
 Artur Gliński
