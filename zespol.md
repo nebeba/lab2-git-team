@@ -1,4 +1,4 @@
-# Zespół
+# Naguwek
 
 Nazwa zespołu: Duchy Boruchy
 
