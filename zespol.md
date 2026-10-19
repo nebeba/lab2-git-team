@@ -1,5 +1,6 @@
 
-#Na głowek
+# Na głowek
+# Naguwek
 
 Nazwa zespołu: Duchy Boruchy
 
