@@ -8,6 +8,6 @@ Artur Gliński
 
 ## Motto
 
-???
+Młodość ma swoje prawa, a starość ma święty spokój.
 
 ## Ulubione technologie
