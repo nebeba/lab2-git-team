@@ -1,4 +1,5 @@
-# Zespół
+
+#Na głowek
 
 Nazwa zespołu: Duchy Boruchy
 
@@ -12,3 +13,4 @@ Pomimo swojej nazwy kałamarz nie służy do mazania kałem
 
 
 ## Ulubione technologie
+
