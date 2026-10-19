@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: ???
+Nazwa zespołu: Duchy Boruchy
 
 ## Skład
 Artur Gliński
@@ -10,6 +10,3 @@ Artur Gliński
 ???
 
 ## Ulubione technologie
-
-windows 7
-
