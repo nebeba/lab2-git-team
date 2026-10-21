@@ -1,1 +1,2 @@
 schudnąć
+przytyć
