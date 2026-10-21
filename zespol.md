@@ -15,3 +15,4 @@ Pomimo swojej nazwy kałamarz nie służy do mazania kałem
 
 ## Ulubione technologie
 
+21.10.2026
